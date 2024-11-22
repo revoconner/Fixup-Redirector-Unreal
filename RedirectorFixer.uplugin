@@ -1,0 +1,27 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "Redirector Fixer",
+    "Description": "Adds redirector fixing functionality to ue4 python",
+    "Category": "Other",
+    "CreatedBy": "Rev",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "CanContainContent": false,
+    "IsBetaVersion": false,
+    "IsExperimentalVersion": false,
+    "Installed": false,
+    "Modules": [
+        {
+            "Name": "RedirectorFixer",
+            "Type": "Runtime",
+            "LoadingPhase": "Default",
+            "WhitelistPlatforms": [
+                "Win64"
+            ]
+        }
+    ]
+}
